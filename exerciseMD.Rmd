@@ -6,4 +6,4 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-I don't do much yet!! :) A small change. Another small change.
+I don't do much yet!! :) A small change.
