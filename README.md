@@ -3,3 +3,5 @@
 The quick brown fox jumps over the lazy dog.
 
 Another change to master
+
+Change2
